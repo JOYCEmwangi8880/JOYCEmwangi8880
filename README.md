@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Joyce Mwangi 
+<br><br>Full-Stack Developer | Python & JavaScript | Relational & Non-Relational Databases
 ## 🛠️ Tech Stack  
 
 **Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript  
@@ -16,7 +17,7 @@
 
 **Architecture & Design:** MVVM, MVP, Clean Architecture, Figma, FigJam, Adobe XD  
 
-<br><br>Full-Stack Developer | Python & JavaScript | Relational & Non-Relational Databases<br><br>🔭 **I’m currently working on**<br>Full-stack platform built with **Next.js** and **PostgreSQL**, designed to manage properties, tenants, and payments.<br><br>🌱 **I’m currently learning**<br>Advanced system design patterns and optimizing PostgreSQL queries for high-traffic applications.<br><br>🤝 **I’m looking for help with**<br>Best practices for deploying and scaling containerized applications (Docker, Kubernetes) on AWS.<br><br>💬 **Ask me about**<br>Next.js server-side rendering, state management in React, or the differences between relational (SQL) and non-relational (NoSQL) databases!<br><br><br>
+<br><br>🔭 **I’m currently working on**<br>Full-stack platform built with **Next.js** and **PostgreSQL**, designed to manage properties, tenants, and payments.<br><br>🌱 **I’m currently learning**<br>Advanced system design patterns and optimizing PostgreSQL queries for high-traffic applications.<br><br>🤝 **I’m looking for help with**<br>Best practices for deploying and scaling containerized applications (Docker, Kubernetes) on AWS.<br><br>💬 **Ask me about**<br>Next.js server-side rendering, state management in React, or the differences between relational (SQL) and non-relational (NoSQL) databases!<br><br><br>
 
 
 ## 🌐 Socials:
