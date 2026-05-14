@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Joyce Mwangi 
-<br><br>Full-Stack Developer | Python & JavaScript | Relational & Non-Relational Databases
+<br><br>Full-Stack Developer | IT Specialist |Digital Marketer
+<br> Portfolio  : https://www.joicemwangi.com/
 ## 🛠️ Stacks  
 
 **Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript  
